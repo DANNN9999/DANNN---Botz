@@ -1,6 +1,6 @@
-Greatings.
-Its just a .md file,not full script bot,but if you wanna the Script,you can buy via WhatsApp(+6283146276723)
-And if you wanna test The bot you can WhatsApp(https://wa.me/+639105615786?text=.menu)
+Greatings.\n
+Its just a .md file,not full script bot,but if you wanna the Script,you can buy via WhatsApp(+6283146276723)\n
+And if you wanna test The bot you can WhatsApp(https://wa.me/+639105615786?text=.menu)\n\n
 
 *SELL SCRIPT DANN WhatsApp Verison*
 🏷️ Price : *Rp. 100.000 / $6.18*
