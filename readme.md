@@ -65,18 +65,23 @@ And if you wanna test The bot you can WhatsApp(https://wa.me/+639105615786?text=
 
 
 *Benefits :*
+
 • Free Update 
+
 • No Enc 90%
 
+
 *Additional Features :*
+
 • Non Additional Features
 
-*Requirement :*
-• NodeJS v18
-• FFMPEG
-• IMAGEMAGICK
-• Ram Min. 5GB
 
-Minat ? chat +6283146276723
-*Testing*
-https://wa.me/+639105615786?text=.menu
+*Requirement :*
+
+• NodeJS v18
+
+• FFMPEG
+
+• IMAGEMAGICK
+
+• Ram Min. 5GB
